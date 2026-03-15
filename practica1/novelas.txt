@@ -1,0 +1,14 @@
+101 120.50 NovelaHistorica
+El Eternauta
+102 850.00 CienciaFiccion
+Cien Años de Soledad
+103 430.75 Drama
+Rayuela
+104 299.99 NovelaPolicial
+El Secreto de sus Ojos
+105 150.00 Fantasia
+El Aleph
+106 210.50 Romance
+Sobre héroes y tumbas
+107 380.00 Misterio
+La casa de los conejos
