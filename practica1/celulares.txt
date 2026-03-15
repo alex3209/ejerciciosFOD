@@ -1,0 +1,15 @@
+1001 250000 Samsung
+10 5 Smartphone gama media con buena bateria
+Galaxy A32
+1002 320000 Xiaomi
+3 5 Pantalla AMOLED y camara 108MP
+Redmi Note 12
+1003 180000 Motorola
+8 4 Equipo economico con Android limpio
+Moto G22
+1004 900000 Apple
+2 3 Alta gama con excelente rendimiento
+iPhone 13
+1005 400000 Samsung
+7 6 Smartphone con pantalla grande
+Galaxy A52

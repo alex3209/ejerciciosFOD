@@ -1,4 +1,3 @@
-
 program p1_3;
 const fin = 'fin';
 type
@@ -30,7 +29,7 @@ begin
 	else ok:=false;
 end;
 
-procedure crearArch(var arch:archivo);
+procedure cargarArch(var arch:archivo);
 var r:registro; ok:boolean;
 begin
 	leerDatos(r,ok);
@@ -79,7 +78,7 @@ BEGIN
 	readln(nombre);
 	assign(arch,nombre);
 	rewrite(arch);
-	crearArch(arch);
+	cargarArch(arch);
 	seek(arch,0);
 	puntoB1(arch);
 	seek(arch,0);
